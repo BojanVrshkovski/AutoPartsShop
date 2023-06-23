@@ -1,6 +1,6 @@
 # AutoPartsShop
 
-AutoParts Shop is an online platform for purchasing auto parts. This platform provides a convenient way for car enthusiasts, mechanics, and individuals to browse, search, and purchase a wide range of auto parts.
+    AutoParts Shop is an online platform for purchasing auto parts. This platform provides a convenient way for car enthusiasts, mechanics, and individuals to browse, search, and purchase a wide range of auto     parts.
 
 # Features
     Product Catalog: Explore a comprehensive catalog of auto parts, categorized by type, make, model, and more.
@@ -35,4 +35,4 @@ AutoParts Shop is an online platform for purchasing auto parts. This platform pr
 
 # Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
+    Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
