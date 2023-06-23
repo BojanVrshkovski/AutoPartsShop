@@ -2,7 +2,7 @@
 
 AutoParts Shop is an online platform for purchasing auto parts. This platform provides a convenient way for car enthusiasts, mechanics, and individuals to browse, search, and purchase a wide range of auto parts.
 
-#Features
+# Features
     Product Catalog: Explore a comprehensive catalog of auto parts, categorized by type, make, model, and more.
     Search Functionality: Easily search for specific parts using keywords, part numbers, or other relevant criteria.
     Product Details: View detailed information about each auto part, including descriptions, specifications, compatibility, and pricing.
@@ -12,7 +12,7 @@ AutoParts Shop is an online platform for purchasing auto parts. This platform pr
     User Accounts: Create and manage your user account, allowing you to save your preferences, shipping addresses, and payment methods for future purchases.
     Notifications: Receive order updates, promotions, and relevant notifications via email or in-app notifications.
 
-#Technologies Used
+# Technologies Used
 
     Front-end: HTML, CSS, JavaScript
     Back-end: ASP.NET Core
@@ -22,7 +22,7 @@ AutoParts Shop is an online platform for purchasing auto parts. This platform pr
     Hosting: AWS or Heroku
     Version Control: Git
 
-#Installation and Setup
+# Installation and Setup
 
     Clone the repository: git clone <repository-url>
     Configure the database connection string in the appsettings.json file.
@@ -33,6 +33,6 @@ AutoParts Shop is an online platform for purchasing auto parts. This platform pr
     Start the application by running the project.
     Access the application in your web browser at http://localhost:port.
 
-#Contributing
+# Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please submit an issue or a pull request.
